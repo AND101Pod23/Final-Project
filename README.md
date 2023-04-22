@@ -12,7 +12,7 @@ Time spent: 7 hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **short description of your app**
+This document provides an overview, project spec, and wireframes for our team's capstone project: An app that acts as a fitness equivalence of YouTube!
 
 If we had to describe this milestone in three (3) emojis, they would be: ☺️😒😥
 
@@ -50,9 +50,9 @@ GIF created with ScreenToGif
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve your submission!
+- [x] Improved UI.
 
 ## Notes
 
-Here's a place for any other notes on this milestone!
+We're excited to dive into this project!
 
