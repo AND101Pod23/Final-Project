@@ -1,10 +1,10 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 1 - **Team/App Name**
+# AND101 Milestone 1 - **FitTube**
 
 Submitted by:
 - Sandy Wu 
-- Noor El-Hawwat
+- Noor EL-Hawwat
 - Joseph Arias
 - Roy Chen
 
@@ -42,6 +42,7 @@ The following BONUS features are implemented:
 
 - [ ] Added digital wireframe/mockup image(s)
 - [X] Added a GIF of an interactive prototype
+
 
 GIF created with ScreenToGif
 
