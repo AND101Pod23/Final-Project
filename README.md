@@ -52,4 +52,5 @@ The following EXTRA features are implemented:
 Here's a place for any other notes on this milestone!
 
 GIF created with ScreenToGif
+
 ![FitTube](https://user-images.githubusercontent.com/118078517/233763112-2834cff3-aa3d-48f7-95da-478362375bef.gif)
