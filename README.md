@@ -1,4 +1,4 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
+<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** acts as a fitness equivalence of YoutTube!-->
 
 # AND101 Milestone 1 - **FitTube**
 
@@ -40,7 +40,7 @@ The following REQUIRED files are included:
 
 The following BONUS features are implemented:
 
-- [ ] Added digital wireframe/mockup image(s)
+- [X] Added digital wireframe/mockup image(s)
 - [X] Added a GIF of an interactive prototype
 
 
