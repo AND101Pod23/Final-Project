@@ -43,6 +43,10 @@ The following BONUS features are implemented:
 - [ ] Added digital wireframe/mockup image(s)
 - [X] Added a GIF of an interactive prototype
 
+GIF created with ScreenToGif
+
+![FitTube](https://user-images.githubusercontent.com/118078517/233763112-2834cff3-aa3d-48f7-95da-478362375bef.gif)
+
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve your submission!
@@ -51,6 +55,3 @@ The following EXTRA features are implemented:
 
 Here's a place for any other notes on this milestone!
 
-GIF created with ScreenToGif
-
-![FitTube](https://user-images.githubusercontent.com/118078517/233763112-2834cff3-aa3d-48f7-95da-478362375bef.gif)
