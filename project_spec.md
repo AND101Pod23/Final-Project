@@ -9,3 +9,6 @@ App Spec:
 LOGIN → STATS → PROFILE → STATS 
 
 LOGIN → STATS → PROFILE → EXERCISE NOW → CHOICE → VIDEO
+
+
+![ProjectSpec](https://user-images.githubusercontent.com/118078517/233886679-434e5803-9668-4726-bc83-a66f90e5a4f0.gif)
