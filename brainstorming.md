@@ -51,3 +51,5 @@ Book shopping app: an online shopping app specifically for books.
 We picked what we believed is the most unique and relevant idea: idea 1.
 
 
+![Brainstorm](https://user-images.githubusercontent.com/118078517/233886358-935ccb83-e6ad-4876-878d-ec129f109fb7.gif)
+
